@@ -25,18 +25,30 @@
 > Clic en el enlace abre el PDF en el visor de GitHub.
 
 ### Starting Point
+> *(Actualmente no has subido writeups de Starting Point. Los añadirás cuando tengas PDFs.)*
+
 | Máquina | Dificultad | PDF |
 |---|---:|---|
-| Meow | Fácil | [Abrir PDF](writeups/starting-point/Meow.pdf) |
-| Fawn | Fácil | [Abrir PDF](writeups/starting-point/Fawn.pdf) |
-| Dancing | Fácil | [Abrir PDF](writeups/starting-point/Dancing.pdf) |
+| — | — | — |
 
-### Otras máquinas
+---
+
+### Máquinas / Writeups publicados
+
 | Máquina | Dificultad | PDF |
 |---|---:|---|
-| Unified | Media | [Abrir PDF](writeups/machines/Unified.pdf) |
+| Kioptrix Level 2 | Fácil | [Abrir PDF](pdf/Kioptrix_Level_2_Writeup.pdf) |
+| Unified | Media | [Abrir PDF](pdf/Unified%20Write-up.pdf) |
 
-> **Cómo leer:** En GitHub puedes ver el PDF online. Si prefieres descargar, usa el botón “Download raw file”.
+---
+
+### Guías y documentación adicional
+
+| Título | Tipo | PDF |
+|---|---:|---|
+| Portproxy Cleanup Guide | Guía técnica | [Abrir PDF](pdf/Portproxy_cleanup_guide.pdf) |
+
+> **Cómo leer:** Puedes ver el PDF directamente en GitHub o descargarlo usando “Download raw file”.
 
 ---
 
@@ -49,12 +61,14 @@
 ---
 
 ## 🧰 Herramientas que suelen aparecer
-`nmap`, `ffuf/feroxbuster`, `sqlmap`, `linpeas/winpeas`, `hydra`, `gobuster`, `metasploit (lo justo)`, `netcat`, `impacket`, `bloodhound`.
+`nmap`, `ffuf/feroxbuster`, `sqlmap`, `linpeas/winpeas`, `hydra`, `gobuster`,  
+`metasploit (lo justo)`, `netcat`, `impacket`, `bloodhound`.
 
 ---
 
 ## ⚖️ Licencia
-Este repositorio está bajo **CC0-1.0**. Eres libre de usar y compartir los PDFs. Aun así, **agradezco atribución** a p1r4t3h00k si los re-subes o referencias.
+Este repositorio está bajo **CC0-1.0**. Eres libre de usar y compartir los PDFs.  
+Aun así, **agradezco atribución** a p1r4t3h00k si los re-subes o referencias.
 
 ---
 
